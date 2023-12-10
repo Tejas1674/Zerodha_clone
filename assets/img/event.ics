@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+PRODID:-//HackerEarth//EN
+VERSION:2.0
+BEGIN:VEVENT
+UID:1701782390135
+DTSTART;TZID=Asia/Kolkata:20231208T060000
+DTEND;TZID=Asia/Kolkata:20231210T235900
+LOCATION:
+SUMMARY:Codesec 2.0: Launch Your Career into a New Orbit
+DESCRIPTION:Participation Timeline (Important note):
+&nbsp; Hiring challenge participation window will be open from&nbsp;1st&nbsp;Dec &ndash; 3rd&nbsp;Dec &nbsp;&nbsp;&amp;&nbsp; &nbsp;8th&nbsp;Dec &ndash; 10th&nbsp;Dec.4th&nbsp;to 7th&nbsp;Dec -&nbsp;Participation window will be closed.
+Take one step closer to your dream job #CodeSec2.0
+Objective
+Code your way into the Product Engineering team of the world&rsquo;s best data security product company.
+Challenge Format
+
+The Seclore coding challenge will be held over one round.
+One programming question. Only those who qualify in this coding challenge will get to participate in further rounds.
+Choose your preferred language: Java/C++/Python
+On completing all the rounds successfully, you stand a chance to head straight to the interview round for the Product Engineer role at Seclore.
+
+Skills 
+
+C++
+Java
+Python
+
+END:VEVENT
+END:VCALENDAR
